@@ -1,0 +1,30 @@
+.quem-somos{
+    background-color: #2941ab;
+}
+
+.quem-somos .conteudo{
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.quem-somos .conteudo .informacoes{
+    width: 48%;
+}
+
+.quem-somos .conteudo .imagem{
+    width: 60%;
+}
+
+.quem-somos .conteudo .informacoes .titulo{
+    font-size: 50px;
+    color: #1ed760;
+    margin-bottom: 20px;
+}
+
+.quem-somos .conteudo .informacoes .texto{
+    font-size: 20px;
+    line-height: 1.5;
+    color: white;
+    font-weight: 400;
+}
