@@ -21,7 +21,7 @@ A landing page possui as seguintes seções:
 
 Este projeto possui duas versões:
 
-*   **Desenvolvimento:** Para visualizar a versão de desenvolvimento, basta abrir o arquivo `index.html` em seu navegador. Nesta versão, os arquivos CSS são carregados individualmente para facilitar a depuração e a manutenção.
+*   **Desenvolvimento:** Para visualizar a versão de desenvolvimento, basta abrir o arquivo `(https://aureliandro-oliveira.github.io/landing-page/)` em seu navegador. Nesta versão, os arquivos CSS são carregados individualmente para facilitar a depuração e a manutenção.
 *   **Produção:** Para criar a versão de produção, você precisa ter o Node.js instalado. Em seguida, execute o seguinte comando no terminal para combinar os arquivos CSS:
 
     ```
