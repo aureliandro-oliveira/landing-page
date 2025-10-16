@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-simples",
+  "version": "1.0.0",
+  "description": "Uma landing page simples",
+  "main": "index.html",
+  "scripts": {
+    "build:css": "node build.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
